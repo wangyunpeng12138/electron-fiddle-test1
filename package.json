@@ -1,0 +1,16 @@
+{
+  "name": "cooing-lock-service-e3rz6",
+  "productName": "cooing-lock-service-e3rz6",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Administrator",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "25.4.0"
+  }
+}
